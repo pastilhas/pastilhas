@@ -1,6 +1,4 @@
-# ![]() Hi, I am a Software Engineer
-
-## ![]() About Me
+# <img src="wave.gif" height="40"/> Olá, I am João Campos
 
 <img src="work-office.gif" align="left" height="200"/>
 
@@ -14,7 +12,9 @@
 
 💬 Portuguese and English
 
-## ![]() My Stack
+&nbsp;
+
+## <img src="stack.gif" height="40"/> Stack
 
 ### Tools
 
