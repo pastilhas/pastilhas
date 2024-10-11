@@ -1,27 +1,35 @@
-# Olá 👋 and welcome to my profile
+# ![]() Hi, I am a Software Engineer
 
-**I am João Campos and I am a Software Enginner**. I currently work in the digitalization of industry, mainly through <i>augmented reality</i>, <i>digital twins of industrial processes and products</i>, and <i>real-time scene reconstruction</i>. I am interested in developing efficient, fast, and slim systems, with the objective of optimizing usage of resources.
+## ![]() About Me
 
-### 🏠 Porto, Portugal 🏠 
+<img src="work-office.gif" align="left" height="200"/>
 
-### 💬 🇵🇹 Native, 🇬🇧 Pro 💬 
+🚀 Software Engineer, Tech Lead
 
-### [🏢 Software Engineer @ INEGI 🏢 ](https://www.inegi.pt)
+💪 strong in web development, distributed systems, digitalization
 
-### [🧑‍🎓 MSc in Informatics and Computing Engineering 🧑‍🎓 ](https://sigarra.up.pt/feup/en/cur_geral.cur_view?pv_curso_id=742)
+🌱 interested in FLOSS, privacy, simple software
 
-<div align="center">
+🧑‍🎓 MSc. in Informatics and Computing Engineering
+
+💬 Portuguese and English
+
+## ![]() My Stack
 
 ### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=linux,nix,git,docker,unity,vscode&perline=3)](#)
+![tools](https://skillicons.dev/icons?i=linux,nix,git,docker,unity,vscode)
 
 ### Experienced in
 
-[![My Skills](https://skillicons.dev/icons?i=python,bash,v,cs,js,ts,nodejs,react&perline=4)](#)
-  
-### Learning
+![lang](https://skillicons.dev/icons?i=python,bash,v,cs,java,kotlin)
 
-[![My Skills](https://skillicons.dev/icons?i=ocaml,deno,go&perline=4)](#)
+![web1](https://skillicons.dev/icons?i=js,ts,nodejs,react)
 
-</div>
+![web2](https://skillicons.dev/icons?i=mui,tailwind,css,html)
+
+![db](https://skillicons.dev/icons?i=postgresql,mysql,elasticsearch,mongodb)
+
+#### Learning
+
+![learning](https://skillicons.dev/icons?i=ocaml,deno,go)
