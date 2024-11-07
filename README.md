@@ -2,7 +2,7 @@
 
 <img src="work-office.gif" align="left" height="180"/>
 
-🧑‍💻 [Software Engineer, Tech Lead](https://www.inegi.pt/pt/)
+🧑‍💻 [Software Engineer, Tech Lead](https://www.inesctec.pt/en)
 
 🧑‍🎓 [MSc. in Informatics and Computing Engineering](https://fe.up.pt/estudar/meic/?lang=en)
 
