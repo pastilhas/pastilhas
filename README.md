@@ -1,4 +1,4 @@
-<img width="400" align="right" src="https://github.com/pastilhas/images/blob/main/shared%20image.jpg?raw=true">
+<img width="400" align="right" src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Djungarian_Hamster_Pearl_White.jpg">
 
 🧑‍💻 Software Engineer, Researcher
 
