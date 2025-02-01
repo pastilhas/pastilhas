@@ -1,9 +1,11 @@
 
+<img width="580" align="right" src="https://github.com/pastilhas/images/blob/main/shared%20image.jpg?raw=true">
+
 🧑‍💻 Software Engineer, Researcher
 
 🏫 MSc. in Informatics and Computing Engineering
 
-💪 strong in webdev, distributed systems, digitalization
+💪 webdev, distributed systems, digitalization
 
 ✨ interested in FLOSS, privacy, simple software
 
