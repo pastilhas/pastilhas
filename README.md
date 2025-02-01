@@ -1,7 +1,7 @@
 
 🧑‍💻 Software Engineer, Researcher
 
-🧑‍🎓 MSc. in Informatics and Computing Engineering
+🏫 MSc. in Informatics and Computing Engineering
 
 💪 strong in webdev, distributed systems, digitalization
 
