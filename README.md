@@ -1,5 +1,4 @@
-
-<img width="580" align="right" src="https://github.com/pastilhas/images/blob/main/shared%20image.jpg?raw=true">
+<img width="250" align="right" src="https://github.com/pastilhas/images/blob/main/shared%20image.jpg?raw=true">
 
 🧑‍💻 Software Engineer, Researcher
 
@@ -10,7 +9,6 @@
 ✨ interested in FLOSS, privacy, simple software
 
 💬 Portuguese, English
-
 
 ### Tools
 
