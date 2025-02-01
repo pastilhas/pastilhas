@@ -1,16 +1,23 @@
-### Hi there 👋
+# <img src="wave.gif" height="40"/>
 
-<!--
-**Pastilhas/Pastilhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="work-office.gif" align="left" height="180"/>
 
-Here are some ideas to get you started:
+🧑‍💻 Software Engineer, Researcher
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧑‍🎓 MSc. in Informatics and Computing Engineering
+
+💪 strong in webdev, distributed systems, digitalization
+
+✨ interested in FLOSS, privacy, simple software
+
+💬 Portuguese, English
+
+## <img src="stack.gif" height="40"/>
+
+### Tools
+
+![tools](https://skillicons.dev/icons?i=linux,debian,git,github,docker)
+![lang](https://skillicons.dev/icons?i=cs,kotlin,python,bash,v)
+![web1](https://skillicons.dev/icons?i=js,ts,nodejs,react)
+
+![web2](https://skillicons.dev/icons?i=html,css,mui)
