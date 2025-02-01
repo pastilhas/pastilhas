@@ -1,4 +1,4 @@
-<img width="250" align="right" src="https://github.com/pastilhas/images/blob/main/shared%20image.jpg?raw=true">
+<img width="400" align="right" src="https://github.com/pastilhas/images/blob/main/shared%20image.jpg?raw=true">
 
 🧑‍💻 Software Engineer, Researcher
 
